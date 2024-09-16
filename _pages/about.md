@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+**NOTE: This personal webpage is still under construction. This is not the final version.**
+
 # About Me 👋
 Hello! I am **Tingjun Huang**, a senior undergraduate majoring in **Information Engineering** at the **Southern University of Science and Technology (SUSTech)**. My passion lies in **robotics** 🤖, where I focus on enabling robots to perceive, navigate, and interact with the real world.
 
