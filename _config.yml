@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tingjun Huang"
-description              : "Aspiring Robotics and AI Engineer"
+description              : ""
 # repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tingjun Huang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : # "Aspiring Robotics and AI Engineer"
+  avatar           : "images/tj_profile.jpg"
+  bio              : #"Aspiring Robotics and AI Engineer"
   location         : "Singapore"
   employer         :
   pubmed           : 
@@ -37,7 +37,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : Tangent-H # e.g., "github username"
+  github           : TangentH # e.g., "github username"
+  cv               : "/assets/files/Tingjun Huang.pdf"
   google_plus      :
   keybase          :
   instagram        :
